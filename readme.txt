@@ -7,3 +7,4 @@ This is the master change
 =======
 This is the feature1 test 
 >>>>>>> feature1
+What's that?

@@ -4,9 +4,5 @@ Git has a mutale index called stage.
 This is the branch test
 This is the master change
 This is the feature1 test 
-<<<<<<< HEAD
->>>>>>> feature1
-What's that?
-=======
-What's the fuck?
->>>>>>> brand1
+
+I want to see the change on you,do
